@@ -1,5 +1,4 @@
-# 👋 ¡Hola! Soy Ezequiel Vidal  
-
+# Proyecto Final Data Analytic - Soy Henry
 Analista de datos apasionado por transformar información en decisiones estratégicas. Utilizo herramientas como **Python**, **SQL** y **Power BI** para crear visualizaciones impactantes y generar insights accionables.  
 
 ---
