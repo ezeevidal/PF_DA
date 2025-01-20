@@ -1,30 +1,46 @@
-# Proyecto Final Data Analytic - Soy Henry
-Analista de datos apasionado por transformar información en decisiones estratégicas. Utilizo herramientas como **Python**, **SQL** y **Power BI** para crear visualizaciones impactantes y generar insights accionables.  
+Proyecto Final: Alcoholic Beverage 🍹🍷  
 
----
+#### Descripción 📋  
+Este proyecto tiene como objetivo principal analizar, transformar y visualizar los datos de **Alcoholic Beverage**, una tienda especializada en la venta de bebidas alcohólicas. A través de un flujo de trabajo estructurado, se busca optimizar la toma de decisiones mediante insights generados a partir de datos reales.
 
-## 🚀 Tecnologías y herramientas  
-- **Lenguajes:** Python (pandas, numpy), SQL.  
-- **Visualización:** Power BI, matplotlib, seaborn.  
-- **Bases de datos:** SQL Server, MySQL.  
-- **Otras herramientas:** Power Query, Tableau (aprendiendo).  
+#### Flujo de Trabajo 🛠️  
 
----
+1. **Análisis y Transformación de Datos con Python**  
+   - Limpieza de datos: detección y tratamiento de valores nulos o inconsistentes.  
+   - Estandarización: unificación de formatos y transformación de variables clave.  
+   - Exploración inicial: generación de estadísticas descriptivas y gráficos básicos para identificar tendencias y outliers.  
 
-## 📂 Proyectos destacados  
-### **📊 Dashboard de Ventas en Power BI**  
-Análisis de ventas por región y categoría con navegación interactiva.  
-🔗 [En proceso]  
+2. **Carga y Modelado en SQL**  
+   - Creación de un modelo relacional que permita almacenar los datos de forma eficiente.  
+   - Inserción de los datos transformados en una base de datos SQL.  
+   - Generación de consultas SQL para analizar ventas, categorías de productos, patrones de consumo, entre otros.  
 
-### **📈 Análisis de COVID-19 en Latinoamérica**  
-Transformación y visualización de datos de países como Argentina, Brazil y México.  
-🔗 [En proceso]  
+3. **Visualización Interactiva en Power BI**  
+   - Desarrollo de un dashboard dinámico que incluya:  
+     - Análisis de ventas por categoría, producto y período de tiempo.  
+     - Comparaciones geográficas (donde sea relevante).  
+     - Identificación de los productos más vendidos y menos populares.  
+   - Incorporación de filtros y segmentaciones para una experiencia de usuario personalizada.  
 
----
+#### Objetivos del Proyecto 🎯  
+- Optimizar las estrategias de ventas mediante la identificación de patrones de compra.  
+- Mejorar la comprensión del comportamiento del cliente para adaptar la oferta de productos.  
+- Facilitar la toma de decisiones basadas en datos mediante visualizaciones interactivas.  
 
-## 📫 Conéctate conmigo  
-- **Email:** pezequielvidal@gmail.com  
-- **LinkedIn: https://linkedin.com/in/ezequiel-vidal-a9bb292a0 
-- **Portfolio:** [En desarrollo 🚧]  
+#### Tecnologías Utilizadas 💻  
+- **Python**: pandas, numpy, matplotlib, seaborn.  
+- **SQL**: SQL Server para almacenamiento y análisis.  
+- **Power BI**: Creación del dashboard y visualización de insights clave.  
 
-¡Colaboremos y hagamos que los datos cobren vida! 🚀  
+#### Resultados Esperados ✅  
+- Un flujo de trabajo automatizado que permita procesar los datos de manera eficiente.  
+- Un dashboard intuitivo que presente métricas clave para la gestión de la tienda.  
+- Una mejor comprensión de las tendencias de consumo y oportunidades de mercado.  
+
+#### Contacto 📫  
+Si tienes alguna pregunta o deseas saber más sobre este proyecto, no dudes en contactar:  
+**Ezequiel Vidal**  
+📧 pezequielvidal@gmail.com
+
+**Jaime Peña**  
+📧 jaifer23@hotmail.com
